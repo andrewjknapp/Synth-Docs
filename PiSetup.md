@@ -9,7 +9,7 @@
 |ADC Module (PCF8591) | x1 |
 
 ## Circuit Diagram (approx made on [ circuito.io](https://www.circuito.io/))
-![circuit](/assets/images/circuit.png ':size=300')
+![circuit](/assets/images/circuit.png ':size=600')
 
 ## Image of Project 
-![breadboard](/assets/images/board.jpg ':size=300')
+![breadboard](/assets/images/board.jpg ':size=600')

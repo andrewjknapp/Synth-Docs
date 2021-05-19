@@ -14,5 +14,9 @@ My project focused on creating a mono synthesizer that can produce controllable,
 4) Define other waveforms (Sine, Square, Sawtooth, Triangle)
 5) Use button to switch between waveforms
 
+## Synthesizer Example
+
+![Speaker](/assets/images/synth.jpg ':size=600')
+
 
 [Link to Repository](https://github.com/andrewjknapp/Synth)
