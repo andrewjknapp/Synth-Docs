@@ -10,11 +10,6 @@ We can visualize sound with using waves, such as a **Sine wave**
 ![Speaker](/assets/gifs/sine.gif ':size=200')
 
 
-rotated:
-
-<img src="/assets/gifs/sine.gif" style="transform: rotate(90deg);width: 200px"></img>
-
-
 
 ## Using Generator functions to Create waveforms
 
