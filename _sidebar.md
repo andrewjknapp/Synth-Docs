@@ -1,3 +1,5 @@
 * [Home](/)
-* [Breadboard](/PiSetup)
+* [Concepts](/Concepts)
 * [Demonstration](/Demonstration)
+* [Breadboard](/PiSetup)
+* [Attribution](/Attribution)
