@@ -18,5 +18,9 @@ My project focused on creating a mono synthesizer that can produce controllable,
 
 ![Speaker](/assets/images/synth.jpg ':size=600')
 
+## My Simplified Synth
+
+![MySynth](/assets/images/mySynth.png ':size=600')
+
 
 [Link to Repository](https://github.com/andrewjknapp/Synth)
